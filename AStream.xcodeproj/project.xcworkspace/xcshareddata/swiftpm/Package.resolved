@@ -1,0 +1,24 @@
+{
+  "originHash" : "d4722c2b68468dcd919ec095f6f7fc6c6f3ffa02fdeac308a1a3edc9da017bd8",
+  "pins" : [
+    {
+      "identity" : "audiostreaming",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dimitris-c/AudioStreaming.git",
+      "state" : {
+        "revision" : "ed8352ff68c19987d01d6d08a1eec0797cd78a74",
+        "version" : "1.2.3"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "0fbc8848e389af3bb55c182bc19ca9d5dc2f255b",
+        "version" : "1.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
